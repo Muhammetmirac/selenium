@@ -17,6 +17,8 @@ public class Day01_ManageMethods {
         //Sayfayi simge durumuna getirin
         driver.manage().window().minimize();
 
+        s
+
         //simge durumunda 3 saniye bekleyip sayfayi maximize yapin
         Thread.sleep(3000);
         driver.manage().window().maximize();
